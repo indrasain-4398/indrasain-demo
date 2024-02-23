@@ -1,4 +1,4 @@
 # indrasain-demo
 This is my first Get Repository.
 <br>
-Author- Indra (student)
+Author- Indra (student college)
